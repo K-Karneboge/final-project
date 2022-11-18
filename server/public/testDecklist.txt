@@ -1,0 +1,55 @@
+Companion
+1 Yorion, Sky Nomad
+
+Deck
+1 Steam Vents
+2 Watery Grave
+2 Paradise Druid
+1 Dovin's Veto
+4 Niv-Mizzet Reborn
+1 Drown in the Loch
+4 Fabled Passage
+2 Extinction Event
+1 Island
+3 Omnath, Locus of Creation
+1 Selfless Glyphweaver
+4 Vanishing Verse
+4 Wandering Mind
+1 Valki, God of Lies
+3 Fable of the Mirror-Breaker
+4 Jetmir's Garden
+3 Ziatora's Proving Ground
+1 Hinterland Harbor
+1 Forest
+1 Mountain
+1 Plains
+1 Swamp
+2 Dragonskull Summit
+1 Temple Garden
+1 Woodland Cemetery
+1 Isolated Chapel
+3 Abrupt Decay
+3 Dreadbore
+1 Hallowed Fountain
+1 Breeding Pool
+1 Godless Shrine
+1 Sacred Foundry
+4 Sylvan Caryatid
+2 Kolaghan's Command
+4 Bring to Light
+1 Sulfur Falls
+3 Leyline Binding
+4 Zagoth Triome
+1 Overgrown Tomb
+
+Sideboard
+1 Koma, Cosmos Serpent
+1 Yorion, Sky Nomad
+1 Extinction Event
+3 Mystical Dispute
+1 Tolsimir, Friend to Wolves
+2 Dovin's Veto
+1 Despark
+2 Kambal, Consul of Allocation
+1 Blood Baron of Vizkopa
+2 Rest in Peace
